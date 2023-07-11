@@ -7,3 +7,7 @@ held in Princeton, NJ, July 10-14, 2023.
 
 The INTERSECT project is supported by NSF awards [2017424](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2017424)
 and [2017259](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2017259).
+
+## Miranda's Addition
+
+This is my addition!
