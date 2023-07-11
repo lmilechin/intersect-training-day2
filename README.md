@@ -12,6 +12,6 @@ and [2017259](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2017259).
 
 This is my addition!
 
-## Lauren's Addition
+## Lauren Milechin's Addition
 
 And here is mine!
